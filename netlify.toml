@@ -1,0 +1,7 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/barbearia-demo.html"
+  to = "/"
+  status = 301
